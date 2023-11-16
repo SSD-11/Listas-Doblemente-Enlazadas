@@ -1,0 +1,3 @@
+C:/Users/Lenovo/CLionProjects/ListasdobleEnlace/cmake-build-debug/CMakeFiles/ListasdobleEnlace.dir
+C:/Users/Lenovo/CLionProjects/ListasdobleEnlace/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/CLionProjects/ListasdobleEnlace/cmake-build-debug/CMakeFiles/rebuild_cache.dir
